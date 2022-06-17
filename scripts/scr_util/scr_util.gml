@@ -17,7 +17,7 @@ enum UNIT {
 function parseTime() {
 	var time = argument0;
 	var parsed_time = real(string_digits(time));
-	var parsed_to   = "MS";      if(argument_count > 1) parsed_to   = simplifyUnit(argument1);
+	var parsed_to   = "MS"; if(argument_count > 1) parsed_to = simplifyUnit(argument1);
 	var parsed_from = undefined;
 	
 	// Gets only the units the time is measured in.
