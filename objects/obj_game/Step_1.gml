@@ -1,0 +1,3 @@
+///@desc
+
+Game.update();
