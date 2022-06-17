@@ -1,8 +1,10 @@
 **No Plan Like When**
 
-A small game about trauma.
+A small game about trauma.  
 
-Programming and art by [Kye Cedar](kye_twitter).
+<!-- CREDITS -->
+
+Programming and art by [Kye Cedar][kye_twitter].  
 < Add other people who contributed here. > ( noah might do sound design )
 
 ----------
